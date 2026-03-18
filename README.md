@@ -59,7 +59,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="385">
 <h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
 <p align="left">
-<a href="mailto:mouhsinkhalid9+github@gmail.co"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
+<a href="mailto:mouhsinkhalid9@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools: <img src="/Assets_Used/Gifs/HeadGifs/rocketemoji.gif" width="25px"> </h3>
