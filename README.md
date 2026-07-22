@@ -18,7 +18,7 @@
 
 <h3 align="center" ><a href="https://github.com/UjjwalSaini07"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=00FF00&vCenter=true&random=false&width=610&height=48&lines=%20%20++++Always+learning,%20Continuously+evolving+in+Web+dev" alt="Typing SVG" /></a></h3>-->
 <!--%2FBackend &multiline=true-->
-<h1 align='center'>hi , I'm Mr.M </h1>
+<h1 align='center'>hi , I'm M </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="left">
